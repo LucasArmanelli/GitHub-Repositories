@@ -62,16 +62,16 @@ export const IssueList = styled.ul`
       width: 46px;
       height: 46px;
       border-radius: 50%50%;
-      border 2px solid #7125;
+      border: 2px solid #7125;
     }
 
     div {
       flex: 1;
       margin-left: 15px;
 
-    strong {
-      font-size: 16px;
-    }
+      strong {
+        font-size: 16px;
+      }
 
       a {
         text-decoration: none;
