@@ -1,5 +1,5 @@
 ## Projeto Repositorios - ReactJS.
 
-Execute esse comando para instalatar todas as dependências.  `yarn install`
+https://romantic-morse-6a9881.netlify.app/
 
-Inicie o aplicativo react:  `yarn start`
+Exibe repositórios do Github.
